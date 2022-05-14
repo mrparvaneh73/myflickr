@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.leonardoxh:retrofit2-livedata-adapter:1.1.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8dad1f27b95207dbd3adb8b3eadbc0e0/transformed/retrofit2-livedata-adapter-1.1.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/40a966a5fef4a290c52ee5a894d441bb/transformed/retrofit2-livedata-adapter-1.1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/40a966a5fef4a290c52ee5a894d441bb/transformed/retrofit2-livedata-adapter-1.1.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/40a966a5fef4a290c52ee5a894d441bb/transformed/retrofit2-livedata-adapter-1.1.2/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.leonardoxh/retrofit2-livedata-adapter/1.1.2/ca96d825a112f0922bd9e7aebf026850ebfa1d40/retrofit2-livedata-adapter-1.1.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.leonardoxh/retrofit2-livedata-adapter/1.1.2/91af639830926dac66a0662bc28ee6ac6b307e76/retrofit2-livedata-adapter-1.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
